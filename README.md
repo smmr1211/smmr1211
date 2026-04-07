@@ -1,4 +1,12 @@
-## Hi there 👋
+## My Repositories 
+---
+* [CalculatorGUI](https://github.com/smmr1211/CalculatorGUI.git)
+  A simple GUI calculator built with Java.
+
+* [BST-CLI](https://github.com/smmr1211/BST-CLI.git)
+  A Command Line Interface (CLI) tool written in C that builds, manipulates, and analyzes Binary Search Trees (BST) from text inputs.
+
+
 
 <!--
 **smmr1211/smmr1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
