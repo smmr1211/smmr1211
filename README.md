@@ -1,5 +1,4 @@
 ## My Repositories 
----
 * [CalculatorGUI](https://github.com/smmr1211/CalculatorGUI.git)
   A simple GUI calculator built with Java.
 
