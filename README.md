@@ -5,7 +5,10 @@ A simple GUI calculator built with Java.
 * [BST-CLI](https://github.com/smmr1211/BST-CLI.git)  
 A Command Line Interface (CLI) tool written in C that builds, manipulates, and analyzes Binary Search Trees (BST) from text inputs.
 
+* [Qiita](https://qiita.com/mourisu)  
+I use this account as a personal memo to share things I stumble over while studying, along with tips that have boosted our QOL!
 
+During a C programming class in my sophomore year, I fell in love with the simplicity and beauty of programming languages that allow us to converse with inanimate objects. Beyond just programming, I have a deep appreciation for all kinds of "languages" that connect different human minds.
 
 <!--
 **smmr1211/smmr1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
