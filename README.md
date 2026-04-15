@@ -7,7 +7,6 @@ A Command Line Interface (CLI) tool written in C that builds, manipulates, and a
 
 * [Qiita](https://qiita.com/mourisu)  
 I use this account as a personal memo to share things I stumble over while studying, along with tips that have boosted our QOL!
-
 During a C programming class in my sophomore year, I fell in love with the simplicity and beauty of programming languages that allow us to converse with inanimate objects. Beyond just programming, I have a deep appreciation for all kinds of "languages" that connect different human minds.
 
 <!--
